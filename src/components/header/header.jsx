@@ -12,7 +12,7 @@ export default function Header() {
   return (
     <header className="bg-[#031427] rounded-lg border-b border-white/20 h-22 flex items-center justify-between" >
     <div className="logo px-15">
-        <h1 className=" cursor-pointer text-[#89CEFF] text-3xl sm:text-4xl font-bold font-ibm ">{t("logo")}</h1>
+        <h1 className=" cursor-pointer text-[#89CEFF] text-2xl sm:text-4xl font-bold font-ibm ">{t("logo")}</h1>
     </div>
     {/* div of buttons */}
     <div className="flex justify-between gap-7 px-15">
