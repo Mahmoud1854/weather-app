@@ -104,7 +104,7 @@ export default function Card() {
                   </div>
             </div>
             {/* the div the of the icon of the sun */}
-            <div id="sunIcon" className="bg-[#3e495df1] mt-8 mx-8 w-28 h-28 sm:w-35 sm:h-35 rounded-2xl flex items-center justify-center">
+            <div id="sunIcon" className="bg-[#3e495df1] mt-8 mx-8 w-32 h-32 sm:w-35 sm:h-35 rounded-2xl flex items-center justify-center">
               <IoMdSunny className="text-7xl text-[#89CEFF] font-bold"/>
             </div>
             </div>
